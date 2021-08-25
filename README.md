@@ -2,7 +2,7 @@
 
 - 😄 Pronomes: Ele/dele //  Pronouns: He/Him 😄
 - 🌎 Inglês Intermediário // Intermediary English 🌎
-- 💻 Graduando em Análise e Desenvolvimento de Sistemas // Graduating in Analysis and systems development 💻
+- 💻 Graduando em Análise e Desenvolvimento de Sistemas // Undergraduate in Analysis and systems development 💻
 
  <div>
     <a href="https://github.com/verras9">
