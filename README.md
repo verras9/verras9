@@ -1,8 +1,6 @@
 ## Aoba, eu sou o Guilherme Verratti! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
-- 😄 Pronomes: Ele/dele //  Pronouns: He/Him 😄
-- 🌎 Inglês Intermediário // Intermediary English 🌎
-- 💻 Graduando em Análise e Desenvolvimento de Sistemas // Undergraduating in Analysis and systems development 💻
+- 🏃‍♂️💻 Graduando em Educação Física e esporte - analista de dados esportivos 💻🏃‍♂️
 
  <div>
     <a href="https://github.com/verras9">
@@ -19,7 +17,5 @@
  ### Aprendendo // Learning:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Snake animation](https://github.com/verras9/verras9/blob/output/github-contribution-grid-snake.svg)
 
