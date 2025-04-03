@@ -1,4 +1,4 @@
-## Aoba, eu sou o Guilherme Verratti! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+## Olá, eu sou o Guilherme Verratti! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 - 🏃‍♂️💻 Graduando em Educação Física e esporte - analista de dados esportivos 💻🏃‍♂️
 
